@@ -6,3 +6,4 @@ go to github ok!
 creating a new branch is quick.
 parner in
 confirm parner
+say hello to parner.
